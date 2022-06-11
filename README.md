@@ -1,6 +1,6 @@
 
-<p align="center"><h2>Calculator-MacOs-Clone-React</h2>
-Projeto simples em React.JS. Foi criado um clone da calculadora do Sistema Operacional MacOs usando React.js
+<p align="center"><h2>Calculator-MacOs-Clone-React</h2></p>
+<p align="center">Projeto simples em React.JS. Foi criado um clone da calculadora do Sistema Operacional MacOs usando React.js
 
 1) A pasta "node_modules" foi removida para tornar o repositório mais leve para download</p>
 
